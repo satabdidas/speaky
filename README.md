@@ -1,3 +1,3 @@
 #Speaky
 
-An app to learn english
+An app for learning english
